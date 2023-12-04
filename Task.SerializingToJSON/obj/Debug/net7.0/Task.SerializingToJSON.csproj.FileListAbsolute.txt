@@ -1,0 +1,17 @@
+/Users/bodeych/RiderProjects/Task.SerializingToJSON/Task.SerializingToJSON/bin/Debug/net7.0/Task.SerializingToJSON
+/Users/bodeych/RiderProjects/Task.SerializingToJSON/Task.SerializingToJSON/bin/Debug/net7.0/Task.SerializingToJSON.deps.json
+/Users/bodeych/RiderProjects/Task.SerializingToJSON/Task.SerializingToJSON/bin/Debug/net7.0/Task.SerializingToJSON.runtimeconfig.json
+/Users/bodeych/RiderProjects/Task.SerializingToJSON/Task.SerializingToJSON/bin/Debug/net7.0/Task.SerializingToJSON.dll
+/Users/bodeych/RiderProjects/Task.SerializingToJSON/Task.SerializingToJSON/bin/Debug/net7.0/Task.SerializingToJSON.pdb
+/Users/bodeych/RiderProjects/Task.SerializingToJSON/Task.SerializingToJSON/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/bodeych/RiderProjects/Task.SerializingToJSON/Task.SerializingToJSON/obj/Debug/net7.0/Task.SerializingToJSON.csproj.AssemblyReference.cache
+/Users/bodeych/RiderProjects/Task.SerializingToJSON/Task.SerializingToJSON/obj/Debug/net7.0/Task.SerializingToJSON.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bodeych/RiderProjects/Task.SerializingToJSON/Task.SerializingToJSON/obj/Debug/net7.0/Task.SerializingToJSON.AssemblyInfoInputs.cache
+/Users/bodeych/RiderProjects/Task.SerializingToJSON/Task.SerializingToJSON/obj/Debug/net7.0/Task.SerializingToJSON.AssemblyInfo.cs
+/Users/bodeych/RiderProjects/Task.SerializingToJSON/Task.SerializingToJSON/obj/Debug/net7.0/Task.SerializingToJSON.csproj.CoreCompileInputs.cache
+/Users/bodeych/RiderProjects/Task.SerializingToJSON/Task.SerializingToJSON/obj/Debug/net7.0/Task.SerializingToJSON.csproj.CopyComplete
+/Users/bodeych/RiderProjects/Task.SerializingToJSON/Task.SerializingToJSON/obj/Debug/net7.0/Task.SerializingToJSON.dll
+/Users/bodeych/RiderProjects/Task.SerializingToJSON/Task.SerializingToJSON/obj/Debug/net7.0/refint/Task.SerializingToJSON.dll
+/Users/bodeych/RiderProjects/Task.SerializingToJSON/Task.SerializingToJSON/obj/Debug/net7.0/Task.SerializingToJSON.pdb
+/Users/bodeych/RiderProjects/Task.SerializingToJSON/Task.SerializingToJSON/obj/Debug/net7.0/Task.SerializingToJSON.genruntimeconfig.cache
+/Users/bodeych/RiderProjects/Task.SerializingToJSON/Task.SerializingToJSON/obj/Debug/net7.0/ref/Task.SerializingToJSON.dll
